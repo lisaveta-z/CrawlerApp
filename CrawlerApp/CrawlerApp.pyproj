@@ -25,9 +25,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="CrawlerApp.py" />
-    <Compile Include="module.py">
-      <SubType>Code</SubType>
-    </Compile>
+    <Compile Include="proxy_getter.py" />
   </ItemGroup>
   <ItemGroup>
     <Interpreter Include="env\">
